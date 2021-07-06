@@ -16,6 +16,19 @@ const srcList = [
     "https://i.imgur.com/SZu3xJR.png",
     "https://i.imgur.com/pS3bnbI.png",
     "https://i.imgur.com/HkmLxKH.png",
+    "https://imgur.com/eiLLvNl.png",
+    "https://imgur.com/WVI5S6x.png",
+    "https://imgur.com/XatNTOZ.png",
+    "https://imgur.com/6Dltcj2.png",
+    "https://imgur.com/Lx3AADF.png",
+    "https://imgur.com/EuUmOnJ.png",
+    "https://imgur.com/cBDqYEw.png",
+    "https://imgur.com/SHks5Dj.png",
+    "https://imgur.com/sT2xGwk.png",
+    "https://imgur.com/DAWaekE.png",
+    "https://imgur.com/e5ta7Ih.png",
+    "https://imgur.com/PPW0T45.png",
+    "https://imgur.com/fHp6KWO.png",
     "https://i.imgur.com/FfIws9l.png" 
 ];
 
